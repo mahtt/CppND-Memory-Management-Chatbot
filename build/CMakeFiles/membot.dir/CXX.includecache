@@ -6,27 +6,29 @@
 
 #IncludeRegexTransform: 
 
+/home/martin/Documents/DEV/C++Nanodegree/Memory-Management-Chatbot/src/chatbot.cpp
+iostream
+-
+random
+-
+algorithm
+-
+ctime
+-
+chatlogic.h
+/home/martin/Documents/DEV/C++Nanodegree/Memory-Management-Chatbot/src/chatlogic.h
+graphnode.h
+/home/martin/Documents/DEV/C++Nanodegree/Memory-Management-Chatbot/src/graphnode.h
+graphedge.h
+/home/martin/Documents/DEV/C++Nanodegree/Memory-Management-Chatbot/src/graphedge.h
+chatbot.h
+/home/martin/Documents/DEV/C++Nanodegree/Memory-Management-Chatbot/src/chatbot.h
+
 /home/martin/Documents/DEV/C++Nanodegree/Memory-Management-Chatbot/src/chatbot.h
 wx/bitmap.h
 -
 string
 -
-
-/home/martin/Documents/DEV/C++Nanodegree/Memory-Management-Chatbot/src/chatgui.cpp
-wx/filename.h
--
-wx/colour.h
--
-wx/image.h
--
-string
--
-chatbot.h
-/home/martin/Documents/DEV/C++Nanodegree/Memory-Management-Chatbot/src/chatbot.h
-chatlogic.h
-/home/martin/Documents/DEV/C++Nanodegree/Memory-Management-Chatbot/src/chatlogic.h
-chatgui.h
-/home/martin/Documents/DEV/C++Nanodegree/Memory-Management-Chatbot/src/chatgui.h
 
 /home/martin/Documents/DEV/C++Nanodegree/Memory-Management-Chatbot/src/chatgui.h
 wx/wx.h
@@ -41,6 +43,20 @@ string
 -
 chatgui.h
 /home/martin/Documents/DEV/C++Nanodegree/Memory-Management-Chatbot/src/chatgui.h
+
+/home/martin/Documents/DEV/C++Nanodegree/Memory-Management-Chatbot/src/graphedge.h
+vector
+-
+string
+-
+
+/home/martin/Documents/DEV/C++Nanodegree/Memory-Management-Chatbot/src/graphnode.h
+vector
+-
+string
+-
+chatbot.h
+/home/martin/Documents/DEV/C++Nanodegree/Memory-Management-Chatbot/src/chatbot.h
 
 /usr/local/include/wx-3.1/wx/accel.h
 wx/defs.h
